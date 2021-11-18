@@ -7,6 +7,6 @@ edition: evaluation
 # For use when creating, importing, or deleting databases
 db_name: pub
 db_host: 127.0.0.1
-db_port: 1433
+db_port: 1443
 db_user: sa
-db_password: P@ssWORD!
+db_password: p@55w0rD
